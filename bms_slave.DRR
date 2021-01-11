@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: bms_slave.PcbDoc   5/09/2017  5:39:39 p.m.
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : bms_slave.TXT
+EIA File   : bms_slave.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.6mm (24mil)                                             Round             119       PTH        689.58mm (27.15inch)
+T2      0.711mm (28mil)                                           Round             27        PTH        483.35mm (19.03inch)
+T3      0.914mm (36mil)                                           Round             16        PTH        56.78mm (2.24inch)
+T4      1.2mm (47mil)                                             Round             40        PTH        124.55mm (4.90inch)
+T5      1.321mm (52mil)                                           Round             10        PTH        284.61mm (11.20inch)
+T6      1.626mm (64mil)                                           Round             4         PTH        35.81mm (1.41inch)
+T7      3.251mm (128mil)                                          Round             4         PTH        32.00mm (1.26inch)
+T8      3.5mm (138mil)                                            Round             4         PTH        53.95mm (2.12inch)
+T9      4.2mm (165mil)                                            Round             4         PTH        427.04mm (16.81inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              228
+
+Total Processing Time (hh:mm:ss) : 00:00:00

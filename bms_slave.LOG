@@ -1,0 +1,119 @@
+Importer Log Report
+Project : bms_slave.PrjPcb
+
+Section : Analyze Document - E:\BMS Rev2\bms_slave.brd
+    Analyzing data of E:\BMS Rev2\bms_slave.brd
+    Load settings
+    Load layers 73
+    Load Library "rcl"
+    Load Packages 6
+    Load Library "transistor-fet"
+    Load Packages 1
+    Load Library "diode"
+    Load Packages 3
+    Load Library "40xx"
+    Load Packages 1
+    Load Library "linear-technology"
+    Load Packages 3
+    Load Library "WE-FB_LT3573"
+    Load Packages 1
+    Load Library "transistor-npn"
+    Load Packages 1
+    Load Library "pulse-eng"
+    Load Packages 2
+    Load Library "led"
+    Load Packages 1
+    Load Library "holes"
+    Load Packages 1
+    Load Library "molex_clik-mate"
+    Load Packages 3
+    Load Library "fuse"
+    Load Packages 1
+    Load Library "murata-filter"
+    Load Packages 1
+    Load Library "testpad"
+    Load Packages 1
+EndSection
+
+Section : Analyze Document - E:\BMS Rev2\bms_slave.sch
+    Analyzing data of E:\BMS Rev2\bms_slave.sch
+    Load settings
+    Load layers 73
+    Load schematic
+    Load Libraries 16
+    Load Library "rcl"
+    Load Packages 341
+    Load Symbols 5
+    Load DeviceSets 6
+    Load Library "linear-technology"
+    Load Packages 3
+    Load Symbols 5
+    Load DeviceSets 3
+    Load Library "diode"
+    Load Packages 74
+    Load Symbols 5
+    Load DeviceSets 6
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "supply2"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "transistor-fet"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "40xx"
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "WE-FB_LT3573"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "transistor-npn"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "pulse-eng"
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "led"
+    Load Packages 37
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "molex_clik-mate"
+    Load Packages 11
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "frames"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "fuse"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "murata-filter"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "testpad"
+    Load Packages 38
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 13
+    Load Parts 201
+    Load Sheets 1
+EndSection
+
+Section : Import Document - E:\BMS Rev2\bms_slave.brd
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+EndSection
